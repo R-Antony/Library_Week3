@@ -1,4 +1,4 @@
-﻿using LibraryWeek3;
+﻿using Library;
 
 class Program
 {
